@@ -157,7 +157,8 @@ chmod 600 ~/.aws/credentials
 3. Click **Next**
 
 <!-- Screenshot: Trust policy JSON pasted into the AWS console editor -->
-<img width="2102" height="786" alt="image" src="https://github.com/user-attachments/assets/cdd1c1cf-5d50-4511-967d-b67ee76072bf" />
+<img width="2102" height="780" alt="image" src="https://github.com/user-attachments/assets/b5e92ac2-293c-4983-af14-8077a771d37b" />
+
 
 
 
@@ -206,7 +207,8 @@ chmod 600 ~/.aws/credentials
 3. Click **Create role**
 
 <!-- Screenshot: IAM Console with "Create role" button highlighted -->
-<img width="2102" height="786" alt="image" src="https://github.com/user-attachments/assets/cb608c8f-5b32-4c3b-beb7-fdc0c14935ea" />
+<img width="2838" height="1412" alt="image" src="https://github.com/user-attachments/assets/1db4f271-1a27-4cce-b78c-8b866393790f" />
+
 
 
 ---
