@@ -204,7 +204,8 @@ chmod 600 ~/.aws/credentials
 3. Click **Create role**
 
 <!-- Screenshot: IAM Console with "Create role" button highlighted -->
-<img width="2940" height="1536" alt="image" src="https://github.com/user-attachments/assets/32fa3518-2ac0-4d83-8a0a-494eac8e6bc5" />
+<img width="2102" height="786" alt="image" src="https://github.com/user-attachments/assets/cb608c8f-5b32-4c3b-beb7-fdc0c14935ea" />
+
 
 ---
 
