@@ -157,7 +157,8 @@ chmod 600 ~/.aws/credentials
 3. Click **Next**
 
 <!-- Screenshot: Trust policy JSON pasted into the AWS console editor -->
-<img width="2102" height="786" alt="image" src="https://github.com/user-attachments/assets/b461744b-c102-48cb-8fa6-cf9d0bf8cb88" />
+<img width="2102" height="786" alt="image" src="https://github.com/user-attachments/assets/cdd1c1cf-5d50-4511-967d-b67ee76072bf" />
+
 
 
 
